@@ -32,19 +32,24 @@ Estou constantemente aprofundando meus conhecimentos em Engenharia de Dados e de
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" title="Python"/>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" title="PostgreSQL"/>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure" />
+  <img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure" title="Microsoft Azure"/>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" alt="Databricks" title="Databricks"/>
 
   <br><br>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="48" alt="Apache Spark / PySpark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="48" alt="Apache Spark" title="Apache Spark / PySpark"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" title="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="48" alt="Power BI" title="Power BI"/>
+  <img src="https://cdn.simpleicons.org/delta/003366" height="48" alt="Delta Lake" title="Delta Lake"/>
 
 </div>
 
